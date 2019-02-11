@@ -19,7 +19,7 @@ body {
 form{
   padding: 20px;
   margin-top: 60px;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 form button, form h5{
@@ -41,6 +41,6 @@ code {
 
 .nav_logo{
   font-weight: bold;
-  background: rgba(0,0,0, .2);
-
+  background: linear-gradient(to top,#444,#333);
+  letter-spacing: 3px;
 }
