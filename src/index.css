@@ -38,6 +38,10 @@ code {
     monospace;
 }
 
+.project_loading_text{
+  color: white;
+  font-weight: bold;
+}
 
 .nav_logo{
   font-weight: bold;
